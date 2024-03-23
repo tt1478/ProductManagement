@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ProductManagement.Domain/1.0.0": {
+        "dependencies": {
+          "ProductManagement.Domain.Shared": "1.0.0"
+        },
+        "runtime": {
+          "ProductManagement.Domain.dll": {}
+        }
+      },
+      "ProductManagement.Domain.Shared/1.0.0": {
+        "runtime": {
+          "ProductManagement.Domain.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProductManagement.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProductManagement.Domain.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

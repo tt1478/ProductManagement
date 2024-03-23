@@ -1,0 +1,12 @@
+D:\ProductManagement\src\ProductManagement.Domain.Shared\bin\Debug\net6.0\ProductManagement.Domain.Shared.deps.json
+D:\ProductManagement\src\ProductManagement.Domain.Shared\bin\Debug\net6.0\ProductManagement.Domain.Shared.dll
+D:\ProductManagement\src\ProductManagement.Domain.Shared\bin\Debug\net6.0\ProductManagement.Domain.Shared.pdb
+D:\ProductManagement\src\ProductManagement.Domain.Shared\obj\Debug\net6.0\ProductManagement.Domain.Shared.csproj.AssemblyReference.cache
+D:\ProductManagement\src\ProductManagement.Domain.Shared\obj\Debug\net6.0\ProductManagement.Domain.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProductManagement\src\ProductManagement.Domain.Shared\obj\Debug\net6.0\ProductManagement.Domain.Shared.AssemblyInfoInputs.cache
+D:\ProductManagement\src\ProductManagement.Domain.Shared\obj\Debug\net6.0\ProductManagement.Domain.Shared.AssemblyInfo.cs
+D:\ProductManagement\src\ProductManagement.Domain.Shared\obj\Debug\net6.0\ProductManagement.Domain.Shared.csproj.CoreCompileInputs.cache
+D:\ProductManagement\src\ProductManagement.Domain.Shared\obj\Debug\net6.0\ProductManagement.Domain.Shared.dll
+D:\ProductManagement\src\ProductManagement.Domain.Shared\obj\Debug\net6.0\refint\ProductManagement.Domain.Shared.dll
+D:\ProductManagement\src\ProductManagement.Domain.Shared\obj\Debug\net6.0\ProductManagement.Domain.Shared.pdb
+D:\ProductManagement\src\ProductManagement.Domain.Shared\obj\Debug\net6.0\ref\ProductManagement.Domain.Shared.dll

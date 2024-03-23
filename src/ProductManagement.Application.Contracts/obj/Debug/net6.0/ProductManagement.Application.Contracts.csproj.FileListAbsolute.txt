@@ -1,0 +1,15 @@
+D:\ProductManagement\src\ProductManagement.Application.Contracts\bin\Debug\net6.0\ProductManagement.Application.Contracts.deps.json
+D:\ProductManagement\src\ProductManagement.Application.Contracts\bin\Debug\net6.0\ProductManagement.Application.Contracts.dll
+D:\ProductManagement\src\ProductManagement.Application.Contracts\bin\Debug\net6.0\ProductManagement.Application.Contracts.pdb
+D:\ProductManagement\src\ProductManagement.Application.Contracts\obj\Debug\net6.0\ProductManagement.Application.Contracts.csproj.AssemblyReference.cache
+D:\ProductManagement\src\ProductManagement.Application.Contracts\obj\Debug\net6.0\ProductManagement.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProductManagement\src\ProductManagement.Application.Contracts\obj\Debug\net6.0\ProductManagement.Application.Contracts.AssemblyInfoInputs.cache
+D:\ProductManagement\src\ProductManagement.Application.Contracts\obj\Debug\net6.0\ProductManagement.Application.Contracts.AssemblyInfo.cs
+D:\ProductManagement\src\ProductManagement.Application.Contracts\obj\Debug\net6.0\ProductManagement.Application.Contracts.csproj.CoreCompileInputs.cache
+D:\ProductManagement\src\ProductManagement.Application.Contracts\obj\Debug\net6.0\ProductManagement.Application.Contracts.dll
+D:\ProductManagement\src\ProductManagement.Application.Contracts\obj\Debug\net6.0\refint\ProductManagement.Application.Contracts.dll
+D:\ProductManagement\src\ProductManagement.Application.Contracts\obj\Debug\net6.0\ProductManagement.Application.Contracts.pdb
+D:\ProductManagement\src\ProductManagement.Application.Contracts\obj\Debug\net6.0\ref\ProductManagement.Application.Contracts.dll
+D:\ProductManagement\src\ProductManagement.Application.Contracts\bin\Debug\net6.0\ProductManagement.Domain.Shared.dll
+D:\ProductManagement\src\ProductManagement.Application.Contracts\bin\Debug\net6.0\ProductManagement.Domain.Shared.pdb
+D:\ProductManagement\src\ProductManagement.Application.Contracts\obj\Debug\net6.0\ProductManagement.Application.Contracts.csproj.CopyComplete
